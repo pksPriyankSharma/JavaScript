@@ -1,1 +1,1 @@
-document.write("Example of calling external file into the body");
+document.write("Example of calling external file techlambda.js into the body");
